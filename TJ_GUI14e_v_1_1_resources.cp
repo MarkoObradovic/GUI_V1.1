@@ -1,0 +1,21 @@
+#line 1 "C:/Users/Public/Documents/Mikroelektronika/Visual TFT/Projects/TJ_GUI14e_v_1_1_Code/mikroC PRO for ARM/TJ_GUI14e_v_1_1_resources.c"
+const unsigned long Tahoma_14x16_Bold = 0x00000263;
+const unsigned long Tahoma_19x19_Bold = 0x0000100F;
+const unsigned long Tahoma_19x23_Regular = 0x00002734;
+const unsigned long Tahoma_19x23_Bold = 0x000042E5;
+const unsigned long Tahoma_21x25_Regular = 0x00005E96;
+const unsigned long Tahoma_25x25_Bold = 0x00007C8D;
+const unsigned long Tahoma_29x29_Bold = 0x0000A3FD;
+const unsigned long settings2sm_bmp = 0x0000D17E;
+const unsigned long back1sm_bmp = 0x0000E50C;
+const unsigned long fuel_dispensersm_bmp = 0x0000F89A;
+const unsigned long CarOilsm_bmp = 0x000102C0;
+const unsigned long auto3sm_bmp = 0x0001164E;
+const unsigned long folder2sm_bmp = 0x00016474;
+const unsigned long engine1sm_bmp = 0x0001A406;
+const unsigned long settings3sm_bmp = 0x0001F22C;
+const unsigned long info3sm_bmp = 0x0002437A;
+const unsigned long manual1sm_bmp = 0x0002A580;
+const unsigned long EdeproLogoW_bmp = 0x0002F6CE;
+const unsigned long check2sm_bmp = 0x00046D54;
+const unsigned long alertorange1sm_bmp = 0x0004CF5A;

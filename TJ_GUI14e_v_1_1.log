@@ -1,0 +1,49 @@
+0	1	mikroCARM.exe -MSF -DBG -pSTM32F407VG -BIN -LHF -DL -SSA -O11111114 -fo168 -N"C:\Users\Public\Documents\Mikroelektronika\Visual TFT\Projects\TJ_GUI14e_v_1_1_Code\mikroC PRO for ARM\TJ_GUI14e_v_1_1.mcpar" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M4\" -SP"C:\Users\Public\Documents\Mikroelektronika\Visual TFT\Projects\TJ_GUI14e_v_1_1_Code\mikroC PRO for ARM\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FT812\Uses\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Uses\ST M4\" -IP"C:\Users\Public\Documents\Mikroelektronika\Visual TFT\Projects\TJ_GUI14e_v_1_1_Code\mikroC PRO for ARM\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for ARM\Packages\FT812\Uses\" "TJ_GUI14e_v_1_1_main.c" "TJ_GUI14e_v_1_1_events_code.c" "TJ_GUI14e_v_1_1_driver.c" "TJ_GUI14e_v_1_1_resources.c" "__Lib_Math.emcl" "__Lib_MathDouble.emcl" "__Lib_Delays.emcl" "__Lib_System_4XX.emcl" "__Lib_GPIO_32F4xx_Defs.emcl" "__Lib_GPIO_32F4xx.emcl" "__Lib_CType.emcl" "__Lib_CString.emcl" "__Lib_Conversions.emcl" "__Lib_SPI_123.emcl" "__Lib_UART_123_45_6.emcl" "__Lib_SDIO.emcl" "__Lib_Mmc_SDIO.emcl" "__Lib_MmcFat16.emcl" "__Lib_MmcFat16Constants.emcl" "__Lib_FT812_Defs_STM32.emcl" "__Lib_FT812_STM32.emcl"	 
+diagnostics: 0	122	Compilation Started	ft812_types.h
+diagnostics: 32	123	Compiled Successfully	TJ_GUI14e_v_1_1_main.c
+diagnostics: 0	122	Compilation Started	ft812_types.h
+diagnostics: 115	123	Compiled Successfully	TJ_GUI14e_v_1_1_events_code.c
+diagnostics: 0	122	Compilation Started	ft812_types.h
+warning: 123	1506	Implicit conversion of pointer to int	TJ_GUI14e_v_1_1_driver.c
+warning: 123	1506	Implicit conversion of pointer to int	TJ_GUI14e_v_1_1_driver.c
+warning: 123	1506	Implicit conversion of pointer to int	TJ_GUI14e_v_1_1_driver.c
+warning: 123	1506	Implicit conversion of pointer to int	TJ_GUI14e_v_1_1_driver.c
+warning: 123	1506	Implicit conversion of pointer to int	TJ_GUI14e_v_1_1_driver.c
+warning: 123	1506	Implicit conversion of pointer to int	TJ_GUI14e_v_1_1_driver.c
+warning: 123	1506	Implicit conversion of pointer to int	TJ_GUI14e_v_1_1_driver.c
+warning: 123	1506	Implicit conversion of pointer to int	TJ_GUI14e_v_1_1_driver.c
+warning: 123	1506	Implicit conversion of pointer to int	TJ_GUI14e_v_1_1_driver.c
+warning: 123	1506	Implicit conversion of pointer to int	TJ_GUI14e_v_1_1_driver.c
+warning: 132	1506	Implicit conversion of pointer to int	TJ_GUI14e_v_1_1_driver.c
+warning: 132	1506	Implicit conversion of pointer to int	TJ_GUI14e_v_1_1_driver.c
+warning: 132	1506	Implicit conversion of pointer to int	TJ_GUI14e_v_1_1_driver.c
+warning: 1386	1508	Implicit conversion of int to ptr	TJ_GUI14e_v_1_1_driver.c
+warning: 1638	1506	Implicit conversion of pointer to int	TJ_GUI14e_v_1_1_driver.c
+hint: 1682	1163	Variable 'pProgressBar' has been declared, but not used	TJ_GUI14e_v_1_1_driver.c
+hint: 1886	1163	Variable 'pProgressBar' has been declared, but not used	TJ_GUI14e_v_1_1_driver.c
+warning: 5972	1505	Suspicious pointer conversion	TJ_GUI14e_v_1_1_driver.c
+warning: 5974	1505	Suspicious pointer conversion	TJ_GUI14e_v_1_1_driver.c
+warning: 5976	1505	Suspicious pointer conversion	TJ_GUI14e_v_1_1_driver.c
+warning: 5978	1505	Suspicious pointer conversion	TJ_GUI14e_v_1_1_driver.c
+warning: 5980	1505	Suspicious pointer conversion	TJ_GUI14e_v_1_1_driver.c
+warning: 5982	1505	Suspicious pointer conversion	TJ_GUI14e_v_1_1_driver.c
+warning: 5986	1505	Suspicious pointer conversion	TJ_GUI14e_v_1_1_driver.c
+diagnostics: 5994	123	Compiled Successfully	TJ_GUI14e_v_1_1_driver.c
+hint: 1209	1164	Variable 'pButtonRound' has been eliminated by optimizer	TJ_GUI14e_v_1_1_driver.c
+hint: 1210	1164	Variable 'pLabel' has been eliminated by optimizer	TJ_GUI14e_v_1_1_driver.c
+hint: 1211	1164	Variable 'pImage' has been eliminated by optimizer	TJ_GUI14e_v_1_1_driver.c
+hint: 1212	1164	Variable 'pCircleButton' has been eliminated by optimizer	TJ_GUI14e_v_1_1_driver.c
+hint: 1213	1164	Variable 'pProgressBar' has been eliminated by optimizer	TJ_GUI14e_v_1_1_driver.c
+hint: 1214	1164	Variable 'pEveButton' has been eliminated by optimizer	TJ_GUI14e_v_1_1_driver.c
+hint: 1275	1164	Variable 'tmpDynResStart' has been eliminated by optimizer	TJ_GUI14e_v_1_1_driver.c
+hint: 2063	1164	Variable 'ppEvent' has been eliminated by optimizer	TJ_GUI14e_v_1_1_driver.c
+diagnostics: 0	122	Compilation Started	TJ_GUI14e_v_1_1_resources.c
+diagnostics: 20	123	Compiled Successfully	TJ_GUI14e_v_1_1_resources.c
+diagnostics: 0	127	All files Compiled in 2437 ms	 
+hint: 0	1144	Used RX: 16 (100%)   Free RX: 0 (0%)	Used RX: 16 (100%)   Free RX: 0 (0%)
+hint: 0	1144	Static RAM (bytes): 13282   Dynamic RAM (bytes): 117785	Static RAM (bytes): 13282   Dynamic RAM (bytes): 117785
+hint: 0	1144	Used ROM (bytes): 87729 (8%)  Free ROM (bytes): 960847 (92%)	Used ROM (bytes): 87729 (8%)  Free ROM (bytes): 960847 (92%)
+diagnostics: 0	125	Project Linked Successfully	TJ_GUI14e_v_1_1.mcpar
+diagnostics: 0	128	Linked in 750 ms	 
+diagnostics: 0	129	Project 'TJ_GUI14e_v_1_1.mcpar' completed: 3406 ms	 
+diagnostics: 0	103	Finished successfully: 26 Sep 2017, 15:30:07	TJ_GUI14e_v_1_1.mcpar
